@@ -86,7 +86,7 @@ namespace Strings
 
 		inline constexpr const char* const STATUS_PAUSED("Paused");
 		inline constexpr const char* const STATUS_PLAYING("Playing");
-		inline constexpr const char* const STATUS_PLAYING_PRERENDER("Playing (prerender)");
+		inline constexpr const char* const STATUS_PLAYING_PRERENDER("Playing (instant)");
 		inline constexpr const char* const STATUS_MODIFIED_SUFFIX(" (MODIFIED)");
 		inline constexpr const char* const STATUS_BYTES_SUFFIX(" bytes");
 		inline constexpr const char* const STATUS_SEEKING("Seeking...");
